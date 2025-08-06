@@ -47,16 +47,15 @@ https://github.com/user-attachments/assets/616a1fca-3c82-4331-bada-4927cd9aad61
 ### 🔧 Backend
 
 1. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
 ```
 
 2. **Run backend**
-
-   ```bash
+```bash
    cd backend
    uvicorn app:app --reload
-   ```
+```
 
 > The backend handles LLM calls, voice transcription, and state tracking.
 > It also includes `utils/` for debugging, prompt engineering, and classification helpers.
@@ -67,10 +66,10 @@ https://github.com/user-attachments/assets/616a1fca-3c82-4331-bada-4927cd9aad61
 
 1. **Launch Streamlit UI**
 
-   ```bash
+```bash
    cd backend
    streamlit run app.py
-   ```
+```
 
 > This launches a web interface with voice + text chat powered by Azure GPT and Whisper.
 
