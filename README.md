@@ -1,7 +1,6 @@
 # 🤖 i4Ideas Smart Submission Assistant
 
 ![I4Ideas Banner](/public/Selection_001.png)
-![How It Works](/public/Selection_002.png)
 
 ---
 
@@ -42,6 +41,8 @@ This solution is especially valuable for companies looking to capture employee i
 ---
 
 ## 🚀 Getting Started
+
+![How It Works](/public/Selection_002.png)
 
 ### 🔧 Backend
 
