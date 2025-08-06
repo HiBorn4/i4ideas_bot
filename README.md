@@ -119,10 +119,6 @@ Feel free to reach out if you want to:
 
 > Created with ❤️ using GPT‑4o and LangChain.
 
-```
-
----
-
 ### ✅ What’s Included
 - 📷 Placeholder for **two images** at the top
 - ⏺ Placeholder for **video demo**
