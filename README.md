@@ -1,4 +1,3 @@
-````markdown
 # 🤖 i4Ideas Smart Submission Assistant
 
 ![I4Ideas Banner](assets/banner-1.png)
