@@ -45,11 +45,11 @@ https://github.com/user-attachments/assets/616a1fca-3c82-4331-bada-4927cd9aad61
 ![How It Works](/public/Selection_002.png)
 
 ### 🔧 Backend
-```
+
 1. **Install dependencies**
    ```bash
    pip install -r requirements.txt
-````
+```
 
 2. **Run backend**
 
