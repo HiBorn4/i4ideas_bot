@@ -1,7 +1,7 @@
 # 🤖 i4Ideas Smart Submission Assistant
 
-![I4Ideas Banner](assets/banner-1.png)
-![How It Works](assets/banner-2.png)
+![I4Ideas Banner](/public/Selection_001.png)
+![How It Works](/public/Selection_002.png)
 
 ---
 
