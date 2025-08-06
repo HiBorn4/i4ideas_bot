@@ -1,0 +1,29 @@
+# Core web interface
+gradio>=4.0.0
+
+# Azure OpenAI integration
+openai>=1.0.0
+
+# Data validation and parsing
+pydantic>=2.0.0
+
+# Standard library enhancements (usually included with Python, but good to specify)
+typing-extensions>=4.0.0
+
+# Optional: For better error handling and debugging
+python-dotenv>=1.0.0
+
+# Optional: For more robust JSON handling
+jsonschema>=4.0.0
+
+word2number
+websockets
+# simpleaudio
+
+fastapi
+uvicorn[standard]
+openai
+langdetect
+
+streamlit
+requests

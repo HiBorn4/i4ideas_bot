@@ -1,0 +1,10 @@
+node_modules
+*.zip
+*.ico
+*.log
+*.lock
+*.pem
+*.env
+*.pyc
+i4 Form Fields Structure.pdf
+i4_Ideas_Mandatory_Fields_with_Descriptions.pdf
